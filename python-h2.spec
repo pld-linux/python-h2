@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	hyper-h2 - stos protokołu HTTP/2
 Name:		python-h2
 # keep 3.x here for python2 support
 Version:	3.2.0
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/h2/
